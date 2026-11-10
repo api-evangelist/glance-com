@@ -1,4 +1,4 @@
-# glance-com
+# Glance
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-glance-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://glance.com/
+Glance is an AI‑powered shopping assistant that curates personalized product recommendations, predicts fashion trends, and enables users to shop across multiple brands via a conversational interface. The platform combines computer‑vision, natural‑language processing, and real‑time inventory data to deliver a seamless, agentic commerce experience, backed by over $600 million in capital and a team with 20+ years of combined leadership experience.
+
+**Areas:** AI · Shopping · Personalization · Commerce · Fashion
+
+## Glance on APIs.io
+
+Everything profiled for Glance is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/glance-com/](https://apis.io/providers/glance-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Glance API](https://apis.io/apis/glance-com/glance-com-api/) — Glance API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-10); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostAvatarV1GenerationTryRequest](https://apis.io/schemas/glance-com/glance-com-post-avatar-v1-generation-try-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Glance Com Context](https://apis.io/jsonld/glance-com/glance-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Glance API Rules](https://apis.io/rules/glance-com/glance-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Glance Authentication](https://apis.io/security/glance-com/glance-com-authentication/)
+- [Glance Domain Security](https://apis.io/security/glance-com/glance-com-domain-security/)
+- [Glance Vulnerability Disclosure](https://apis.io/security/glance-com/glance-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://glance.com/)
+- [Documentation](https://glance.com/us/glanceai/help)
+- [Getting started](https://glance.com/us/glanceai/help/getting-started)
+- [Security](https://glance.com/us/legal/security)
+- [Trust centre](https://glance.com/us/trust-center)
+- [Privacy policy](https://glance.com/privacy-policy?region=in&utm_source=realme)
+
+## API Evangelist rating
+
+**Kin Score 42.4** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.7 |
+| Contract quality | 44.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 18.4 |
+
+**Agent readiness 36.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/glance-com/](https://apis.io/providers/glance-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Glance: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/glance-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
